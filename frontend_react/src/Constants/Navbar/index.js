@@ -1,0 +1,1 @@
+export {deafault as Nevbar } from '/Navbar/Navbar';
