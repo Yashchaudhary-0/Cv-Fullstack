@@ -1,10 +1,10 @@
 import React from 'react'
 
-import './work.scss';
-const work = () => {
+import './Work.scss';
+const Work = () => {
   return (
-    <div>work</div>
+    <div>Work</div>
   )
 }
 
-export default work
+export default Work

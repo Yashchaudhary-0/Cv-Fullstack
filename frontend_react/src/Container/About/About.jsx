@@ -1,10 +1,10 @@
 import React from 'react'
 
-import './about.scss';
-const about = () => {
+import './About.scss';
+const About = () => {
   return (
-    <div>about</div>
+    <div>About</div>
   )
 }
 
-export default about
+export default About

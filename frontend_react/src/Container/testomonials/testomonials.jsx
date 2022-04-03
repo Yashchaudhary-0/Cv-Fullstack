@@ -1,10 +1,10 @@
 import React from 'react'
 
-import './testomonials.scss';
-const testomonials = () => {
+import './Testomonials.scss';
+const Testomonials = () => {
   return (
-    <div>testomonials</div>
+    <div>Testomonials</div>
   )
 }
 
-export default testomonials
+export default Testomonials
