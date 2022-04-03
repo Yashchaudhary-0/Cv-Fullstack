@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap');
+
+:root{
+    --font-base:"DM Sans", sans-serif;
+
+    --primary-color: #00bcd4;
+    --secondary-color: #fafafa;
+    --black-color:#030303;
+    --grey-color: #6b7688;
+    --brown-color: #8d6e63;
+    --white-color: #fff;
+}
+
+* {
+    box-sizing: border-box;
+    padding: 0%;
+    margin: 0%;
+    scroll-behavior: smooth;
+}
